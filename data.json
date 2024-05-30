@@ -1,38 +1,44 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Amira Adam Badr",
+        "photo" : "Amira.jpg",
+        "phone" : "0677261319",
+        "email" : "eng.amiraadam@gmail.com"
     },
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "institutionName" : "University of Khartoum- Sudan",
+        "photo" : "University-of-Khartoum-Sudan.jpeg",
+        "description" : "Master of Chemical Engineering"
     },
     "foreignLanguage" : {
-        "language" : "",
+        "language" : "Spanish",
         "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+            "englishPhrase" : "Hello, my name is Amira",
+            "foreignLanguage" : "Hola, mi nombre es Amira"
         },
         {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+            "englishPhrase" : "I am an engineer",
+            "foreignLanguage" : "Yo soy un ingeniero"
         }]
     },
-    "favouriteSubjects" : [
+    "workExperience" : [
         {
-            "name" : "",
-            "description" : ""
+            "jobName" : "Water purification engineer",
+            "companyName" : "Ministry of Water Resources, Energy & Mining",
+            "jobResponsiblities" : "monitoring water treatment procedures and making sure that safe and clean drinking water is delivered. demonstrated proficiency in enhancing the effectiveness and quality of water filtration systems. Along with my technical abilities, I have a demonstrated history of successfully managing data entry and arranging files and documents inside the water station department. I am a vital asset in ensuring efficient operations and data integrity in water treatment facilities because to my distinctive combination of technical expertise and organizational skills."
+            
+       },
+        {
+            "jobName" : "Chemical Engineering TA",
+            "companyName" : "Kordofan University Sudan",
+            "jobResponsiblities" : "My responsibilities were: Assisting department with classroom instruction, records, and assignments. Leading  discussion  sections.  Meeting  with students during office hours. Conferencing with students individually or in small groups. Delivering lectures or guest lectures. Leading group projects or discussions. Grading assignments or papers. Preparing laboratory materials."
+
         },
         {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
+            "jobName" : "Chemical engineering Lecturer",
+            "companyName" : "Kordofan University Sudan",
+            "jobResponsiblities" : "My duties were: Teaching across chemical engineering and related disciplines. Delivery of practical/technical classes in a laboratory environment. Curriculum and module design and development. Carrying out high quality research in areas of chemical engineering. Generating research income and publication of outcomes. Working with national and international partners in research activities."
+
         }
     ]
 }
