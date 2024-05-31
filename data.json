@@ -1,13 +1,13 @@
 {
     "user" : {
         "fullName" : "Amira Adam Badr",
-        "photo" : "Amira.jpg",
+        "photo" : "./Amira.jpg",
         "phone" : "0677261319",
         "email" : "eng.amiraadam@gmail.com"
     },
     "education" : {
         "institutionName" : "University of Khartoum- Sudan",
-        "photo" : "University-of-Khartoum-Sudan.jpeg",
+        "photo" : "./University-of-Khartoum-Sudan.jpeg",
         "description" : "Master of Chemical Engineering"
     },
     "foreignLanguage" : {
